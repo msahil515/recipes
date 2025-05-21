@@ -1,0 +1,24 @@
+# Spice Blends Used in Recipes
+
+## Confirmed Spice Blends (from AI-Generated Recipe)
+1. Madras Curry Powder
+2. Garam Masala
+3. Sambal Oelek (chili paste)
+
+## Homemade Spice Blend Recipes
+### Weeknight Hero Spice Blend
+- 1 tbsp Onion Powder
+- 1 tbsp Garlic Powder
+- 1 tbsp Smoked Paprika
+- 1 tbsp Whole Dried Parsley
+
+## Likely Spice Blends (based on recipe titles and cuisines)
+4. Thai Red Curry Paste - likely in ThaiRedCurry.pdf
+5. Shawarma Spice Blend - likely in Recipe: Falafel & Shawarma Chicken Platter...
+6. Za'atar - possibly in Middle Eastern recipes
+7. Taco Seasoning - possibly in Mexican Black Bean & Quinoa Bowls
+8. Korean Spice Blend/Gochugaru - likely in Crispy Korean Style chicken
+9. Berbere - possibly in North African inspired dishes
+10. Chili Powder Blend - common in many recipes
+
+Note: This list is partially based on educated guesses from recipe names since PDF content extraction is limited. To create a complete list, you would need to manually review each recipe.
